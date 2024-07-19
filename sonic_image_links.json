@@ -20,8 +20,8 @@
  },
 "sonic-vs.img.gz": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
-  "build": "",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=598130&view=results",
+  "build": "598130",
   "date": ""
  },
 "sonic-innovium.bin": {
@@ -38,8 +38,8 @@
  },
 "sonic-barefoot.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
-  "build": "",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=598590&view=results",
+  "build": "598590",
   "date": ""
  },
 "sonic-centec.bin": {
@@ -52,18 +52,18 @@
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
   "build": "",
-  "date": ""
+  "date": "null"
  },
 "sonic-generic.bin": {
-  "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
-  "build": "",
+  "url": "null",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=598590&view=results",
+  "build": "598590",
   "date": ""
  },
 "sonic-generic-dbg.bin": {
-  "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
-  "build": "",
+  "url": "null",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=598590&view=results",
+  "build": "598590",
   "date": ""
  },
 "sonic-marvell-armhf.bin": {
@@ -130,21 +130,21 @@
  },
 "sonic-centec-arm64.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
-  "build": "",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=597801&view=results",
+  "build": "597801",
   "date": ""
  },
 "sonic-generic.bin": {
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
   "build": "",
-  "date": ""
+  "date": "null"
  },
 "sonic-generic-dbg.bin": {
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
   "build": "",
-  "date": ""
+  "date": "null"
  },
 "sonic-marvell-armhf.bin": {
   "url": "",

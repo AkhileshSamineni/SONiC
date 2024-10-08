@@ -106,15 +106,15 @@
  },
 "sonic-innovium.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
-  "build": "null",
-  "date": ""
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
+  "build": "",
+  "date": "null"
  },
 "sonic-innovium-dbg.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
-  "build": "null",
-  "date": ""
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
+  "build": "",
+  "date": "null"
  },
 "sonic-barefoot.bin": {
   "url": "",
@@ -130,8 +130,8 @@
  },
 "sonic-centec-arm64.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
-  "build": "null",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
+  "build": "",
   "date": ""
  },
 "sonic-generic.bin": {
@@ -148,9 +148,9 @@
  },
 "sonic-marvell-armhf.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
-  "build": "null",
-  "date": ""
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
+  "build": "",
+  "date": "null"
  },
 "sonic-nephos.bin": {
   "url": "",
